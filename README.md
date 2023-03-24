@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I am currently enrolled at Cornell University as an Information Sciences major with a concentration in Data Science. I am taking a leave of absence, and I plan to return to campus in Fall 2023. This profile is meant to display some of the projects I've worked on that demonstrate my abilities related to Python programming and my major. I will update this page regularly as I complete more projects in the future. Below are summaries of the projects that are currently being displayed on this profile.
+#### I am currently enrolled at Cornell University as an Information Sciences major with a concentration in Data Science. I am taking a leave of absence, and I plan to return to campus in Fall 2023. This profile is meant to display some of the projects I've worked on that demonstrate my abilities related to Python programming and my major. I will update this page regularly as I complete more projects in the future. Below are summaries of the projects that are currently being displayed on this profile.
 
 <!--
 **notna2435/notna2435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
