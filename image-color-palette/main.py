@@ -7,8 +7,6 @@ from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 from PIL import Image
 import extcolors
 from colormap import rgb2hex
-import os
-from flask import Flask, render_template, request, redirect, url_for
 
 def color_to_df(input):
     colors_pre_list = str(input).replace('([(', '').split(', (')[0:-1]
