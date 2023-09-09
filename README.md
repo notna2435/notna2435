@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I am currently enrolled at Cornell University as an Information Sciences major with a concentration in Data Science. I am taking a leave of absence, and I plan to return to campus for the Fall 2023 semester. This profile is meant to display some of the projects I've worked on that demonstrate my abilities related to Python programming and my major. I will update the notna2435 repository regularly as I complete more projects in the future.
+🎓 My name is Anthony Ma, and I am currently enrolled at Cornell University purusing my Bachelor's in Information Sciences with a concentration in Data Science.
+
+🏬 I am currently working part-time for CGeneTool, a small biotech equipment reseller, and I am developing automated programs for consolidation of client records and trend analysis of the market for used biotech equipment. I have also completed 100 projects using Python as a part of an online Udemy course. I don't currently have many contributions on Github, as I don't really use it for my projects, but I'm hoping to get involved in the near future.
+
+🔭 I have learned various skills such as Python, Natural Language Processing, web scraping, HTML and CSS, SQL, and statistical analysis.
+
+🎮 Outside of coding and data science, I enjoy playing video games. The games I am currently playing the most are League of Legends, Elden Ring, Honkai: Star Rail, and Monster Hunter Rise. I am also a custom keyboard enthusiast and an audiophile, and I play the cello on the side.
 
 <!--
 **notna2435/notna2435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
